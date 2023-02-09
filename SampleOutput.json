@@ -1,0 +1,149 @@
+{
+    "status": "ok",
+    "totalResults": 11,
+    "articles": [
+        {
+            "source": {
+                "id": "news24",
+                "name": "News24"
+            },
+            "author": "Paul Vecchiatto",
+            "title": "Parliament approves law to fight terrorism financing, money laundering",
+            "description": "Parliament passed legislation to combat money laundering and terrorism financing needed to avoid the country being added to a global illicit-finance watchlist.",
+            "url": "https://www.news24.com/fin24/economy/parliament-approves-law-to-fight-terrorism-financing-money-laundering-20221122",
+            "urlToImage": "https://cdn.24.co.za/files/Cms/General/d/7612/0e38f336a7a1419d847dcee8bd31f1fc.jpg",
+            "publishedAt": "2022-11-22T19:17:09+00:00",
+            "content": "South Africa’s parliament passed legislation to combat money laundering and terrorism financing needed to avoid the country being added to a global illicit-finance watchlist.\r\nThe passage of the Gene… [+975 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Li Cohen",
+            "title": "Sinbad's \"dead\" limbs are \"coming alive\" 2 years after stroke",
+            "description": "The actor and comedian's family has created a website and limited edition Sinbad action figure to help raise money to be used for his recovery.",
+            "url": "https://www.cbsnews.com/news/sinbad-stroke-dead-limbs-are-coming-alive-as-he-learns-to-walk-again/",
+            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2022/11/22/7e5a6a82-c75b-425c-896d-b5cee6a3a841/thumbnail/1200x630/21da8621e88478048badf3f7c1c317b4/gettyimages-804990924.jpg",
+            "publishedAt": "2022-11-22T17:45:19+00:00",
+            "content": "It's been two years since comedian and actor Sinbad had a debilitating stroke that left him hooked up to a ventilator and in a medically induced coma. \r\nWhile his family said that his particular situ… [+3933 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Sarah Perez",
+            "title": "Venmo adds in-app charitable donations, redesigned 'send money' screen",
+            "description": "PayPal-owned Venmo is today rolling out two changes to its peer-to-peer payments app, including the ability to donate to charities through Venmo as well as a redesigned money-sending experience. The latter aims to make it easier to see how much you’re sending…",
+            "url": "https://techcrunch.com/2022/11/22/venmo-adds-in-app-charitable-donations-redesigned-send-money-screen/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/11/Venmo-Charities.png?resize=1200,534",
+            "publishedAt": "2022-11-22T17:09:45Z",
+            "content": "PayPal-owned Venmo is today rolling out two changes to its peer-to-peer payments app, including the ability to donate to charities through Venmo as well as a redesigned money-sending experience. The … [+3318 chars]"
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "Steve Benen",
+            "title": "Trump’s hush-money scandal isn’t behind him after all",
+            "description": "Donald Trump, in the runup to Election Day 2016, allegedly paid illegal hush money to a porn star. Prosecutors in New York aren't quite done with the case.",
+            "url": "https://www.msnbc.com/rachel-maddow-show/maddowblog/trumps-hush-money-scandal-isnt-rcna58307",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2022-02/220210-donald-trump-cs-6f36b3.jpg",
+            "publishedAt": "2022-11-22T13:00:24Z",
+            "content": "In a normal political environment, it would be considered a career-ending scandal. Donald Trump, in the run-up to Election Day 2016, allegedly paid illegal hush money to a porn star named Stormy Dani… [+2694 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news-uk",
+                "name": "Google News (UK)"
+            },
+            "author": "Geraldine Scott",
+            "title": "Paedophile former MP was given expenses after being jailed for sex assault",
+            "description": "A paedophile former Tory MP was paid more than £14,000 of taxpayers’ money after he had been jailed for groping a 15-year-old boy.Imran Ahmad Khan, who was the",
+            "url": "https://www.thetimes.co.uk/article/former-mp-imran-ahmad-khan-was-paid-expenses-after-being-jailed-for-sex-assault-s5676fpbf",
+            "urlToImage": "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F54b93a3c-6a5e-11ed-ba50-5355b767de45.jpg?crop=630%2C355%2C3%2C56&resize=1200",
+            "publishedAt": "2022-11-22T12:29:00+00:00",
+            "content": "A paedophile former Tory MP was paid more than £14,000 of taxpayers money after he had been jailed for groping a 15-year-old boy.\r\nImran Ahmad Khan, who was the MP for Wakefield until he was convicte… [+518 chars]"
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": "Callum Booth",
+            "title": "8 foolproof ways to clutter up your Mac",
+            "description": "If there’s one thing I’ve learnt in this life, it’s that the more stuff you have, the better. If you have a higher number of things, basic math tells you that you have more money. ...",
+            "url": "http://thenextweb.com/news/8-foolproof-ways-to-clutter-up-apple-mac",
+            "urlToImage": "https://img-cdn.tnwcdn.com/image/plugged?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F11%2Fheader-image-clutter-up-macos-mac-apple-imac.jpg&signature=36b24deacf581ac757a5d604d1552512",
+            "publishedAt": "2022-11-21T09:13:31Z",
+            "content": "If theres one thing Ive learnt in this life, its that the more stuff you have, the better. If you have a higher number of things, basic math tells you that you have more money. And we all know that m… [+5136 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Wired",
+            "title": "Elizabeth Holmes of Theranos Gets 11 Years in Prison",
+            "description": "The former Theranos CEO’s fall is a cautionary tale for eccentric founders and the investors who blindly throw money at their inventions.",
+            "url": "https://www.wired.com/story/elizabeth-holmes-theranos-is-going-to-prison",
+            "urlToImage": "https://media.wired.com/photos/6376a3941f6fc1913bddf491/191:100/w_1280,c_limit/Elizabeth-Holmes-Theranos-Sentencing-Business-1158861262.jpg",
+            "publishedAt": "2022-11-18T22:26:47Z",
+            "content": "Elizabeth Holmes has been sentenced to just over 11 years in prison for defrauding investors by falsely claiming her technology could detect diseases from a drop of blood.\r\nThe sentencing of the form… [+2946 chars]"
+        },
+        {
+            "source": {
+                "id": "financial-post",
+                "name": "Financial Post"
+            },
+            "author": "Financial Post",
+            "title": "Financial Post",
+            "description": "Stay up-to-date with the latest business trends and information on the Canadian economy, stock market and personal finance. Learn to save money, invest in the market, grow your wealth and advance your career with new skills.",
+            "url": "https://financialpost.com/category/personal-finance/business-essentials/",
+            "urlToImage": "https://dcs-static.gprod.postmedia.digital/12.2.3/websites/images/postmedia-image-fallback.png",
+            "publishedAt": "2022-11-13T00:37:35.7082248Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "the-hill",
+                "name": "The Hill"
+            },
+            "author": "Alex Gangitano, Rachel Frazin",
+            "title": "Questions grow about Biden’s position on a gas tax holiday",
+            "description": "President Biden is facing growing questions about whether he will throw his support behind a federal gas tax holiday in an attempt to save Americans some money at the pump while gas prices remain high from inflation and the impact of Russia’s invasion into Uk…",
+            "url": "https://thehill.com/policy/equilibrium-sustainability/3260062-questions-grow-about-bidens-position-on-a-gas-tax-holiday/",
+            "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2022/04/california-gas-prices_040422_ap-Jeff-Chiu_gasprices.jpg?w=1280",
+            "publishedAt": "2022-04-06T10:03:07Z",
+            "content": "President Biden is facing growing questions about whether he will throw his support behind a federal gas tax holiday in an attempt to save Americans some money at the pump while gas prices remain hig… [+6271 chars]"
+        },
+        {
+            "source": {
+                "id": "financial-times",
+                "name": "Financial Times"
+            },
+            "author": null,
+            "title": "‘Money is no object’: Ghislaine Maxwell trial shines light on class divide",
+            "description": "News, analysis and comment from the Financial Times, the worldʼs leading global business publication",
+            "url": "https://www.ft.com/content/0b9d93da-1687-4eb1-bd53-0a84a1b40dff",
+            "urlToImage": null,
+            "publishedAt": "2021-12-14T06:22:29.1165883Z",
+            "content": "Keep abreast of significant corporate, financial and political developments around the world.\r\nStay informed and spot emerging risks and opportunities with independent global reporting, expert\r\ncomme… [+32 chars]"
+        },
+        {
+            "source": {
+                "id": "the-sport-bible",
+                "name": "The Sport Bible"
+            },
+            "author": "Ryan Sidle",
+            "title": "Dana White Hits Back At Paige VanZant After Instagram Claims",
+            "description": "The UFC fighter said she earned more posting on social media than she did in the octagon and wants more money in her next contract.",
+            "url": "http://www.thesportbible.com/ufc/pub-talk-dana-white-hits-back-at-paige-vanzant-after-instagram-claims-20190828",
+            "urlToImage": "http://beta.ems.ladbiblegroup.com/s3/content/808x455/61791cc65d668d6c1794bd4ee562a2ee.png",
+            "publishedAt": "2019-08-28T21:07:40Z",
+            "content": "UFC president Dana White has responded to Paige VanZant's claims that she makes more money posting on Instagram than she does fighting in UFC. \r\nVanZant claimed on Tuesday that she wanted more money … [+1438 chars]"
+        }
+    ]
+}
